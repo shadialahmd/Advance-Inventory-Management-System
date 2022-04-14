@@ -28,7 +28,7 @@ itemReportsSearchTableCreatorFile = 'model/item/itemReportsSearchTableCreator.ph
 vendorReportsSearchTableCreatorFile = 'model/vendor/vendorReportsSearchTableCreator.php';
 
 // File that creates the sale reports search table
-saleReportsSearchTableCreatorFile = 'model/sale/saleReportsSearchTableCreator.php';
+saleReportsSearchTableCreatorFile = 'model/sale/saleReportsSearchTableCreator.php';  
 
 
 

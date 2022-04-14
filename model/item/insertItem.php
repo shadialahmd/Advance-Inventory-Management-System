@@ -3,7 +3,7 @@
 	require_once('../../inc/config/db.php');
 	
 	$initialStock = 0;
-	$baseImageFolder = '../../data/item_images/';
+	$baseImageFolder = '../../data/item_images/';  
 	$itemImageFolder = '';
 	
 	if(isset($_POST['itemDetailsItemNumber'])){
